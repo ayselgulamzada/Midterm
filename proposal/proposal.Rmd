@@ -1,7 +1,7 @@
 ---
-title: "Title"
+title: "Midterm Exam"
 author: 
-  - Last Name, First Name[^1]
+  - Gulamzada Aysel
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -32,30 +32,41 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
+**Student ID:** 21080060, https://github.com/ayselgulamzada/Midterm.git
 
-# Important Information About Midterm
-
-\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 35 IN THIS FILE!}
-
-**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
-
-**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 16 April 2023, 23:59.**
-
-\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
 
-The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
+**Research question:**
+What is the ratio of net enrolment to the primary and secondary schools around the world between 2005 and 2019, if we compare the statistics of education of some developed and least developed countries?  
 
-In this section, mention the purpose and importance of your work in a few paragraphs.
+First of all, I created my data set with the information from the site of World Data Bank. After this step  I chose “Education Statistics - All Indicators” topic. The main reason I chose this topic is to show the importance and the level of development of education. Then I selected 23 countries for observation, 4 series (Adjusted net enrolment rate, one year before the official primary entry age, both sexes (%), Percentage of enrolment in primary education in private institutions (%), Population of the official entrance age to primary education, both sexes (number), Total net enrolment rate, primary, both sexes (%) ) and time about 15 years (2005 – 2019) for variables. So I prepared 103 observations and 19 variables. In the last stage, I researched 4 articles related to my topic and got useful information. And I wrote my research question based on these articles.
+
+Education is seen as a fundamental resource by both individuals and societies. Governments are expected to ensure access to basic education in most countries, while citizens are often required by law to attain a certain level of education.
+
+The research showed that there were some differences in the ratio of students in the primary and secondary schools. Over the course of a decade, the total public elementary and secondary school population has increased. The level of education in the developed countries. It has been growing. There are still important challenges in many developing countries despite the fact that literacy is higher than ever. Younger generations are better educated than older generations in most countries and in virtually all developing countries. The literacy rate in these countries will increase.
+
+In some low-income, low-performing countries (such as Mozambique and the Democratic Republic of the Congo), children and young face many obstacles to get a high quality education. Poor quality education, unsafe schools and the pressure to work to support families in the least developed countries are leading to enrollment rates. The challenges are much more in these countries and very few children achieve advanced skills.
+
+Participation of the population in education is a sign of the level of education. The gender gap began to widen as the percentage of population that was men and women increased, but the dynamics of changes were different. 
+Most of the governments invest a lot in education, but they don't spend a lot on monitoring or evaluating it. Most of the world's education systems are poorly managed. The international education database leaves out crucial measures of quality, process and output. Due to the limited professional capacity most countries have to gather education statistics and carry out education research, along with strong resistance by educators and policymakers to being evaluated, these shortfalls are due. 
+
+Two important measures of educational achievement are school and attendance. At the primary level, we focus on enroll and attendance rates. Administrative data shows the number of children in primary school who are in the age group that corresponds to primary school, divided by the total population of the same age group. The percentage of children in the age group that correspond to primary school who are reported as attending primary school is the rate of attendance.
+
+The conclusion of the research is that most of the cross-country gaps in literacy can be closed in the future.
+
 
 ## Literature Review
 
 In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
 
+new citation for my article @united2010digest or I can type [@united2010digest]
 
+new citation for my article @owidglobaleducation or I can type [@owidglobaleducation]
+
+new citation for my article @brock2013education or I can type [@brock2013education]
+
+new citation for my article @michalcewicz2021gender or I can type [@michalcewicz2021gender]
 
 **References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
 
@@ -64,4 +75,5 @@ In this section, discuss the articles you have read on the subject by giving ref
 \newpage
 # References {#references}
 <div id="refs"></div>
+
 
