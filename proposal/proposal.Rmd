@@ -1,5 +1,5 @@
 ---
-title: "Midterm Exam"
+title: "Education Statistics - All Indicators"
 author: 
   - Gulamzada Aysel
 bibliography: ../bibliography/biblio.bib
